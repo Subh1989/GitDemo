@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-06T13:34:23 IST" name="Default suite" finished-at="2020-05-06T13:34:23 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2020-05-06T13:34:23 IST" name="Default test" finished-at="2020-05-06T13:34:23 IST" duration-ms="87">
+      <class name="MavenTutorial.Maven.Selenium">
+        <test-method signature="BrowserLogin()[pri:0, instance:MavenTutorial.Maven.Selenium@1e04fa0a]" started-at="2020-05-06T13:34:23 IST" name="BrowserLogin" finished-at="2020-05-06T13:34:23 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLogin -->
+      </class> <!-- MavenTutorial.Maven.Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="MavenTutorial.Maven.RestAPITest"/>
+      <class name="MavenTutorial.Maven.AppiumTest"/>
+      <class name="MavenTutorial.Maven.SeleniumTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
