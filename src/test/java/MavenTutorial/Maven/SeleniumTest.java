@@ -15,5 +15,9 @@ public class SeleniumTest {
 	public void BrowserValidation()
 	{
 		System.out.println("BrowserValidation");
+		System.out.println("BrowserValidation1");
+		System.out.println("BrowserValidation2");
+		System.out.println("BrowserValidation3");
+		System.out.println("BrowserValidation4");
 	}
 }
