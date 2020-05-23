@@ -8,6 +8,9 @@ public class AppiumTest {
 	public void MobileLogin()
 	{
 		System.out.println("MobileLogin");
+		System.out.println("MobileLogin1");
+		System.out.println("MobileLogin3");
+		System.out.println("MobileLogin4");
 	}
 	
 	@Test
