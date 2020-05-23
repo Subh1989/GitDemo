@@ -18,4 +18,10 @@ public class AppiumTest {
 	{
 		System.out.println("MobileValidation");
 	}
+	
+	@Test
+	public void MobileValidationSS()
+	{
+		System.out.println("MobileValidationSS");
+	}
 }
