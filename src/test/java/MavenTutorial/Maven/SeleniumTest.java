@@ -15,5 +15,6 @@ public class SeleniumTest {
 	public void BrowserValidation()
 	{
 		System.out.println("BrowserValidation");
+		
 	}
 }
